@@ -2,7 +2,7 @@
 - 👀 I’m interested in UIKit, SwiftUI, Swift
 - 🌱 I’m currently learning UIKit, SwiftUI, XCode
 - 💞️ I’m looking to collaborate on any codebase
-- 📫 How to reach me mdmirzakashif@gmail.com?
+- 📫 How to reach me mdmirzakashif@gmail.com
 
 ## 🔧 Technologies & Tools
 
